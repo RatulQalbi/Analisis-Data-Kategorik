@@ -19,7 +19,7 @@ Berikut adalah akses cepat menuju laporan interaktif masing-masing tugas:
 | No | Judul Tugas | Deskripsi Singkat | Aksi / Tautan |
 |:---:|:---|:---|:---:|
 | **01** | **Tugas 1** | Pengantar Analisis Data Kategori & Eksplorasi Data | [https://ratulqalbi.github.io/Analisis-Data-Kategorik/tugas1/] |
-| **02** | **Tugas 2** | Penyajian Data Kategori & Visualisasi | [https://ratulqalbi.github.io/Analisis-Data-Kategorik/tugas2/] |
+| **02** | **Tugas 2** | Uji Chi-Square | [https://ratulqalbi.github.io/Analisis-Data-Kategorik/tugas2/] |
 
 
 ---
