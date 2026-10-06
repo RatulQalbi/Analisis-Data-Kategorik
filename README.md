@@ -18,8 +18,9 @@ Berikut adalah akses cepat menuju laporan interaktif masing-masing tugas:
 
 | No | Judul Tugas | Deskripsi Singkat | Aksi / Tautan |
 |:---:|:---|:---|:---:|
-| **01** | **Tugas 1** | Pengantar Analisis Data Kategori & Eksplorasi Data | [🔗 Buka Laporan](https://ratulqalbi.github.io/Analisis-Data-Kategori/Tugas%201|
+| **01** | **Tugas 1** | Pengantar Analisis Data Kategori & Eksplorasi Data | [🔗 Buka Laporan](https://ratulqalbi.github.io/Analisis-Data-Kategori/Tugas_1/) |
 | **02** | **Tugas 2** | Penyajian Data Kategori & Visualisasi | [🔗 Buka Laporan](https://ratulqalbi.github.io/Analisis-Data-Kategori/Tugas_2/) |
+
 
 ---
 
